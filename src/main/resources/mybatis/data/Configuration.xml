@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<!-- http://www.mybatis.org/core/configuration.html -->
+<!-- http://mybatis.org/dtd/mybatis-3-config.dtd -->
+<!-- http://mybatis-user.963551.n3.nabble.com/SQLSession-selectOne-for-resultType-quot-map-quot-and-resultType-quot-hashmap-quot-returns-null-td2236152.html -->
+
+<configuration>
+	<properties resource="mybatis/data/config.properties">
+		<property name="db.username" value="username" />
+		<property name="db.password" value="default" />
+	</properties>
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${db.driver}" />
+				<property name="url" value="${db.url}" />
+				<property name="username" value="${db.username}" />
+				<property name="password" value="${db.password}" />
+			</dataSource>
+		</environment>
+	</environments>
+	<mappers>
+		<mapper resource="mybatis/data/Mapper.xml" />
+	</mappers>
+</configuration>

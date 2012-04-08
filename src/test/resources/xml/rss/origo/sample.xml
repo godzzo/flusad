@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-2"?><?xml-stylesheet type="text/css" href="http://origo.hu/p/origo_rss.css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>[origo] Hírcentrum</title>
+		<copyright>@ 2005 [origo]</copyright>
+		<description>[origo] Hírcentrum</description>
+		<link>http://www.origo.hu/hircentrum</link>
+		<language>hu</language>
+		<atom:link href="http://origo.hu/contentpartner/rss/hircentrum/origo.xml"
+			rel="self" type="application/rss+xml" />
+		<image>
+			<title>[origo] Hírcentrum</title>
+			<url>http://www.origo.hu/p/cimlap2004/origo_logo.gif</url>
+			<link>http://www.origo.hu/hircentrum</link>
+			<width>131</width>
+			<height>44</height>
+		</image>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ryan Gosling megmentette egy újságírónő életét</title>
+			<link>http://www.origo.hu/filmklub/blog/hir/20120404-ryan-gosling-megmentette-egy-ujsagirono-eletet.html</link>
+			<guid>http://www.origo.hu/filmklub/blog/hir/20120404-ryan-gosling-megmentette-egy-ujsagirono-eletet.html</guid>
+			<description>Ryan Gosling nem csak a filmekben játszik
+				rettenthetetlen férfiakat, hanem az életben is gyakran viselkedik
+				hősiesen. A színész március végén fejezte be Thaiföldön az Only God
+				Forgives című Nicolas Winding Refn-film forgatását, és most ismét
+				New York utcáin végzi filantróp tevékenységét. Tavaly augusztusban
+				mi is írtunk arról az esetről, amikor Gosling egy utcai verekedést
+				szakított félbe, a New York Post mai cikke pedig arról számol be,
+				hogy határozott fellépésével kedden egy brit újságírónőt mentett ki
+				a halál torkából.Ryan Gosling idén januárban egy New York-i
+				utcánLaurie Penny, a The New Statesman riportere a 6. sugárúton úgy
+				lépett le az úttestre, hogy előtte a rossz irányba nézett (lévén
+				angol), és már majdnem elgázolta egy arra száguldó taxi, amikor
+				valaki megfogta hátulról és visszarántotta a járdára. "Hé, vigyázz!"
+				- mondta neki a jóképű fiatalember, aki nem más volt, mint Ryan
+				Gosling. Az újságírónő köpni-nyelni nem tudott, különösen, amikor az
+				incidens után a mellette álló lánytól egyből megkapta, hogy "te
+				mázlista ribanc".Olvasnivaló: Meddig tart még a Ryan
+				Gosling-elvonás?Olvasnivaló: Miért Ryan Gosling a legnagyobb király?</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 18:22:02 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Vettel még lát esélyt a címvédésre</title>
+			<link>http://www.f1hirek.hu/f1/20120404-f1-vettel-meg-lat-eselyt-a-cimvedesre.html</link>
+			<guid>http://www.f1hirek.hu/f1/20120404-f1-vettel-meg-lat-eselyt-a-cimvedesre.html</guid>
+			<description>Hiába tűnik úgy, hogy a Red Bull elvesztette az elmúlt
+				években megszokott fölényét, és ismerik el a csapatnál is, hogy
+				hátrányban vannak, Vettel szerint még simán megnyerhetik a
+				világbajnokságot.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 18:14:03 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Vágó István szörnyű öltönyével foglalkozik egy brit lap</title>
+			<link>http://www.origo.hu/teve/20120404-vago-istvan-szornyu-oltonyevel-foglalkozik-egy-brit-lap.html</link>
+			<guid>http://www.origo.hu/teve/20120404-vago-istvan-szornyu-oltonyevel-foglalkozik-egy-brit-lap.html</guid>
+			<description>A Design Week arról ír, hogy a Studio Hansa munkatársai
+				dolgoztak az ÁtVágó designján, és még Vágó öltözékét is le kellett
+				cserélniük.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 18:09:08 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Nyolc allergiát okozó faféle virágzik most</title>
+			<link>http://www.origo.hu/egeszseg/20120404-nyolc-allergiat-okozo-fafajta-is-viragzik-jelenleg.html</link>
+			<guid>http://www.origo.hu/egeszseg/20120404-nyolc-allergiat-okozo-fafajta-is-viragzik-jelenleg.html</guid>
+			<description>A hét eleje óta fokozatosan erősödik a pollenterhelés -
+				adta hírül az Állami Népegészségügyi és Tisztiorvosi Szolgálat
+				(ÁNTSZ).</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 18:08:23 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ugyanolyan magyar vagyok, mint ők</title>
+			<link>http://www.origo.hu/filmklub/blog/interju/exkluziv/20120402-toldi-katalin-interju-csak-a-szel-fliegauf-bence-ciganygyilkossagok-ugyanolyan.html</link>
+			<guid>http://www.origo.hu/filmklub/blog/interju/exkluziv/20120402-toldi-katalin-interju-csak-a-szel-fliegauf-bence-ciganygyilkossagok-ugyanolyan.html</guid>
+			<description>Toldi Katalin 32 évesen lett színésznő, amikor megkapta
+				a romagyilkosságokról szóló Csak a szél egyik főszerepét. Előtte
+				volt takarítónő, szobalány, és lámpákat szerelt össze a gyárban.
+				Először ült repülőn, amikor a film berlini premierjére utazott, és
+				az alkalom kedvéért még a magassarkút is elviselte. Az ott
+				tapasztalt rajongásnak örült, de közben tudta, hogy itthon csak a
+				semmi várja. A történetben, és az életben is két gyereket nevel.
+				Interjú.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 18:00:42 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Topteniszezővel jönnek a lettek a Davis-kupa-meccsre</title>
+			<link>http://www.origo.hu/sport/tenisz/20120404-a-magyar-daviskupavalogatott-a-lettek-ellen-jatszik-nyiregyhazan.html</link>
+			<guid>http://www.origo.hu/sport/tenisz/20120404-a-magyar-daviskupavalogatott-a-lettek-ellen-jatszik-nyiregyhazan.html</guid>
+			<description>Először játszik a lettek ellen a magyar
+				Davis-kupa-válogatott, amely péntektől vasárnapig Nyíregyházán, a
+				Bujtosi Szabadidő Csarnokban fogadja a világranglista korábbi 21.
+				helyezettjével, Ernest Gulbisszal felálló ellenfelet.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:51:53 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Feljelentést tett az LMP a Malév felszámolása miatt</title>
+			<link>http://www.origo.hu/gazdasag/20120404-feljelentest-tett-az-lmp-a-malev-felszamolasa-miatt.html</link>
+			<guid>http://www.origo.hu/gazdasag/20120404-feljelentest-tett-az-lmp-a-malev-felszamolasa-miatt.html</guid>
+			<description>Ismeretlen tettes ellen feljelentést tett szerdán a
+				Lehet Más a Politika (LMP) a Malév felszámolása miatt - közölte a
+				Teve utcai rendőrszékház előtt tartott sajtótájékoztatóján Scheiring
+				Gábor parlamenti képviselő. Az ellenzéki párt csődbűntettet,
+				csalást, valamint hűtlen vagy hanyag kezelést sejt az ügyben.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:46:34 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ingyenzene: felülemelkedni a furcsaságon</title>
+			<link>http://www.quart.hu/cikk.php?id=7270</link>
+			<guid>http://www.quart.hu/cikk.php?id=7270</guid>
+			<description>Brazil szépségek egy középkorú szakállas férfitól, avagy
+				a puha és finom brazil dal megszüntetve-megőrzése. Kedvesen pulzáló
+				basszusok vonaton ingázáshoz; New York-i hiphop-reneszánsz; lo-fi
+				Twin Peaks és egyéb abszurditások. Schmitt Pál és az idő
+				fraktáltermészetét kifejező gifek.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:45:04 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Tulassay két hónapig még marad</title>
+			<link>http://www.origo.hu/itthon/20120404-tulassay-ket-honapig-meg-marad.html</link>
+			<guid>http://www.origo.hu/itthon/20120404-tulassay-ket-honapig-meg-marad.html</guid>
+			<description>A Semmelweis Egyetem rektorának azonnali lemondását nem
+				fogadta el Réthelyi miniszter, de így is egy hónappal korábban
+				szűnik meg a mandátuma, mintha nem mondott volna le.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:42:27 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Kettős győzelemmel jutott a Ligakupa döntőjébe a Videoton</title>
+			<link>http://www.origo.hu/sport/magyarfoci/20120404-kettos-gyozelemmel-jutott-a-ligakupa-dontojebe-a-videoton.html</link>
+			<guid>http://www.origo.hu/sport/magyarfoci/20120404-kettos-gyozelemmel-jutott-a-ligakupa-dontojebe-a-videoton.html</guid>
+			<description>Idegenbeli sikere után otthon sem hibázott a Videoton
+				labdarúgócsapata, így kettős győzelemmel lépett a Ligakupa döntőjébe
+				a Pápa ellen. A fináléban a Kecskemét-Debrecen párharc győztesével
+				találkoznak a fehérváriak. </description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:37:25 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Mégsem döntöttek a Magyarország elleni eljárásokról</title>
+			<link>http://www.origo.hu/itthon/20120404-europai-bizottsag-megsem-dontottek-a-magyarorszag-elleni-eljarasokrol.html</link>
+			<guid>http://www.origo.hu/itthon/20120404-europai-bizottsag-megsem-dontottek-a-magyarorszag-elleni-eljarasokrol.html</guid>
+			<description>Az Európai Bizottság még nem döntött a Magyarország
+				ellen indított kötelezettségszegési eljárások további sorsáról, mert
+				jelenleg is tanulmányozza a magyar kormánynak a bizottsági
+				kifogásokra adott válaszait - válaszolta Olli Rehn pénzügyi biztos
+				sajtóirodája az [origo] kérdésére.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 17:22:13 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Berlin feltárja titkát</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36202</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36202</guid>
+			<description>Évszázadokkal ezelőtt egy Cölln nevű település volt az a
+				mag, amelyre a mai német főváros folyamatosan "rátelepedett". Mikor
+				a dinamikusan növekvő Berlin teljesen elfoglalta területét, Cölln
+				nyomtalanul eltűnt. A nemrégiben előkerült látványos leletek abban
+				segíthetik a régészeket, hogy rekonstruálhassák a falu és lakóinak
+				történelmét.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 16:59:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Öt hasonmás kíséri Madonnát</title>
+			<link>http://www.quart.hu/cikk.php?id=7269</link>
+			<guid>http://www.quart.hu/cikk.php?id=7269</guid>
+			<description>Az énekesnő személyesen tanítja be a "klónkvintett"
+				tagjait, hogy hogyan viselkedjenek. Azt reméli, hogy a bevetésükkel
+				sikerül némi nyugtot szereznie még turnézás közben is.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 15:25:10 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ismert műtárgyak idegen kézben</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36196</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36196</guid>
+			<description>A Parthenon márványfrízei 1816 óta vannak Londonban,
+				miközben Athén folyamatosan, egyre hangosabban követeli
+				visszaszolgáltatásukat. Számos olyan, külföldi múzeumban fellelhető
+				műtárgy van a világon, amely valószínűleg már soha nem fog
+				visszakerülni a származási országba.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 14:33:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Zenekart alakíthatnak a Beatles-ivadékok</title>
+			<link>http://www.quart.hu/cikk.php?id=7268</link>
+			<guid>http://www.quart.hu/cikk.php?id=7268</guid>
+			<description>Paul McCartney fia, James szerint elképzelhető, hogy a
+				Beatles-tagok fiai rövidesen csinálnak egy zenekart.  </description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 13:21:53 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>A liftzene királya liftben koncertezik</title>
+			<link>http://www.quart.hu/cikk.php?id=7267</link>
+			<guid>http://www.quart.hu/cikk.php?id=7267</guid>
+			<description>Legalábbis ha akad olyan ember, aki egymillió forinttal
+				beszáll a Kenny G-ről szóló dokumentumfilm költségeibe. Kétmillióért
+				pedig miénk lehet egy tincs a szaxofonos legendás hajkoronájából.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 13:00:29 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Már egymillió éve is használhattak tüzet</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36201</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36201</guid>
+			<description>Egy nemzetközi csapat kutatása szerint őseink az eddig
+				feltételezettnél 300 ezer évvel korábban gyújtottak tüzet. Az állati
+				csontok és kőeszközök mellett fahamu mikroszkopikus nyomait fedezték
+				fel egy millió évvel ezelőtti rétegben a dél-afrikai Wonderwerk
+				barlangban.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 12:46:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Középkori recept egyszarvúhoz</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36203</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36203</guid>
+			<description>A sündisznó, a rigó és az egyszarvú elkészítésének módja
+				is fellelhető abban az elveszettnek hitt középkori szakácskönyvben,
+				amelyet most találtak meg a British Library-ben.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 11:35:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>A Faith No More is játszik a Volt Fesztiválon</title>
+			<link>http://www.quart.hu/cikk.php?id=7266</link>
+			<guid>http://www.quart.hu/cikk.php?id=7266</guid>
+			<description>Újabb fellépőket jelentettek be a soproni fesztiválra:
+				Mike Patton és zenekara mellett még újabb dubstep, drum &amp;amp;
+				bass és 2-step sztárok nevét is bedobták a szervezők.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 11:29:51 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Náci múlt: erős nosztalgia keleten</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36194</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36194</guid>
+			<description>Lettország és Litvánia ellentmondásosan viszonyul
+				múltjához, Rigában a Waffen SS uniformisában vonultak a háborús
+				veteránok, míg Vilniusban úgy gondolják, hogy a horogkereszt inkább
+				a balti ország, mint a náci Harmadik Birodalom jelképe. A
+				kollaboránsok védelme a rasszizmust és a xenofóbiát is szalonképessé
+				teheti - figyelmeztetnek a nyugati lapok.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 10:46:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ezért süllyedt el a Titanic</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36199</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36199</guid>
+			<description>Sorsdöntő események tökéletes összhangja okozta a
+				Titanic egy évszázaddal ezelőtti katasztrófáját, állítja egy
+				tanulmány, amely matematikai és fizikai jelenségek sorozatát sejteti
+				a tragédia mögött. A szerző szerint a belfasti hajógyárban használt
+				rossz minőségű szegecsek és a hajó 60 százalékának vízzel való
+				elárasztása még nem vezetett volna a luxushajó elsüllyedéséhez. A
+				karibi térség éghajlata nagyban hozzájárulhatott a katasztrófa
+				bekövetkeztéhez.</description>
+			<category>News</category>
+			<pubDate>Wed, 4 Apr 2012 08:55:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Az ügynök, aki három titkosszolgálatnak dolgozott</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36204</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36204</guid>
+			<description>Werner Stiller Az ügynök. Életem három
+				titkosszolgálatnál című könyve professzionális és tárgyszerű
+				történetmesélésével magával ragadja az olvasót, aki bepillantást
+				nyerhet a világ egyik legalaposabb titkosszolgálata, a Stasi
+				mindennapi életébe, működésébe, az árulás következményeibe. Az író a
+				saját élettörténetét meséli el, az eseményeket kizárólag az azt
+				átélő főszereplő szemszögéből ismerhetjük meg.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 20:02:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>David Lynch punktarajat éget. Videoklip-szemle</title>
+			<link>http://www.quart.hu/cikk.php?id=7265</link>
+			<guid>http://www.quart.hu/cikk.php?id=7265</guid>
+			<description>Lynch első, saját dalához készült klipje meglepő módon
+				olyan, mint egy Lynch-film! Katy Perry szerint még a háború is jobb
+				dolog, mint a pasija, meglepőt húz az OK Go, helyet követelnek a nap
+				alatt a magyar hipszterek.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 19:37:51 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Igaza volt Einsteinnek</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36185</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36185</guid>
+			<description>Mégis pontos lehet Einstein teóriája a világegyetem
+				tágulásának gyorsaságáról - jelentették ki brit tudósok a minap.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 16:24:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Magyar világutazóról mintázhatták Old Shatterhand alakját</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36198</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36198</guid>
+			<description>A legendát ? miszerint a népszerű indiánregények
+				szerzője, Karl May a magyar Xantus Jánosról mintázta Old Shatterhand
+				alakját ? egy újságíró élesztette fel az 1970-es években. Franz
+				Remmel azt okoskodta ki, hogy May regényeinek bizonyos részletei
+				olyannyira hasonlítanak Xantus anyjának Amerikából küldött
+				leveleire, hogy az nem lehet véletlen.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 15:58:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Hitler koponyája</title>
+			<link>http://www.mult-kor.hu/cikk.php?id=36197</link>
+			<guid>http://www.mult-kor.hu/cikk.php?id=36197</guid>
+			<description>A Führer koponyáját ábrázoló kép egyike annak az öt
+				Röntgen-felvételnek, amely Hitler fejéről fennmaradt.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 14:19:00 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Ray Charles alapítványa beperelte a gyermekeit</title>
+			<link>http://www.quart.hu/cikk.php?id=7264</link>
+			<guid>http://www.quart.hu/cikk.php?id=7264</guid>
+			<description>Ray Charles fejenként félmillió dollárt hagyott mind a
+				12 gyermekére, minden mást pedig alapítványára. A gyermekek egy
+				része szeretné visszaszerezni a szerzői jogokat, mire az alapítvány
+				beperelte őket.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 14:15:22 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Kómában a Crazy Town énekese</title>
+			<link>http://www.quart.hu/cikk.php?id=7263</link>
+			<guid>http://www.quart.hu/cikk.php?id=7263</guid>
+			<description>Az ezredforduló népszerű rap-metál zenekara, a Crazy
+				Town énekese, a drogproblémái miatt hírhedt Shifty Shellshock múlt
+				hét óta kómában fekszik egy Los Angeles-i kórházban.</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 13:12:18 +0200</pubDate>
+		</item>
+		<item xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:scrpt="http://origo.hu/contentpartner/rss">
+			<title>Már az olcsó cd sem kell nekünk. A magyar és nemzetközi zenei
+				piac 2011-ben</title>
+			<link>http://www.quart.hu/cikk.php?id=7255</link>
+			<guid>http://www.quart.hu/cikk.php?id=7255</guid>
+			<description>Az eladott hanghordozók száma 35 százalékot zuhant
+				tavaly Magyarországon. Hirtelen kiszerettünk az olcsó cd-kből;
+				leginkább a tehetségkutatókban feltűnt énekesek és bejáratott magyar
+				sztárok albumait vesszük, valamint gyereklemezeket. Eközben a
+				nemzetközi helyzet éppen egész jó, vagyis hát a szokásosnál jóval
+				kisebb volt a visszaesés. Sztárok, számok, elemzés!</description>
+			<category>News</category>
+			<pubDate>Tue, 3 Apr 2012 10:45:29 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

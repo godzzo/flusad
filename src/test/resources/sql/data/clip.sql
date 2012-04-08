@@ -1,0 +1,34 @@
+
+DROP TABLE moragon;
+CREATE TABLE moragon (
+	id BIGINT NOT NULL AUTO_INCREMENT,
+	place VARCHAR(125) NOT NULL,
+	location VARCHAR(125) NOT NULL,
+	kindof VARCHAR(20) NOT NULL,
+	age SMALLINT NOT NULL,
+	length SMALLINT NOT NULL,
+	price FLOAT NOT NULL,
+	created DATE NOT NULL,
+	customer BIGINT NOT NULL,
+	note MEDIUMTEXT, 
+	comment MEDIUMTEXT,
+	code VARCHAR(125),
+	PRIMARY KEY(id)
+);
+
+DROP TABLE burdang;
+CREATE TABLE burdang (
+	id BIGINT NOT NULL AUTO_INCREMENT,
+	parent_id BIGINT NOT NULL,
+	place VARCHAR(125) NOT NULL,
+	blue_pos BIGINT NOT NULL,
+	PRIMARY KEY(id)
+);
+
+TRUNCATE TABLE moragon;
+TRUNCATE TABLE burdang;
+
+SELECT * FROM moragon;
+SELECT * FROM burdang ORDER BY parent_id;
+
+SELECT parent_id, COUNT(id) cnt FROM burdang GROUP BY parent_id ORDER BY 2;

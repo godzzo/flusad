@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Mapper">
+	<select id="selectCities" resultType="map">
+		SELECT 
+				ci.city_id, ci.city, ci.country_id, co.country 
+			FROM 
+				city ci 
+			JOIN 
+				country co 
+			ON 
+				ci.country_id = co.country_id
+	</select>
+	<select id="selectCountries" resultType="map">
+		SELECT country_id, country FROM country;
+	</select>
+	<select id="selectRentalCustomer" parameterType="map" resultType="map">
+		SELECT 
+				customer_id, staff_id 
+			FROM 
+				rental 
+			WHERE 
+				rental_id BETWEEN (#{Moragon._position}*100) AND (#{Moragon._position}*100+100)
+	</select>
+	<select id="selectCustomer" resultType="map">
+		SELECT 
+				customer_id, CONCAT(last_name, ' ', first_name) AS name, email 
+			FROM 
+				customer
+	</select>
+	
+	<select id="testHierarchyParm" parameterType="map" resultType="map">
+		SELECT city FROM city WHERE city_id &lt; #{main.max_id}
+	</select>
+</mapper>

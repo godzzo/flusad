@@ -1,0 +1,7 @@
+Barbara;KIND;23
+Franco;ROUGH;33
+Nilli;SOFT;29
+Boba;NORMAL;17
+Fett;HUHU;17
+Jabba;CRAZY;177
+Yoda;HUNKING;999

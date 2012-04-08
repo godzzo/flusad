@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Mapper">
+	<insert id="insertMoragon" parameterType="map" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO moragon 
+			(place, location, kindof, age, length, price, created, customer, note, comment, code) 
+		VALUES 
+			(#{place}, #{location}, #{kindof}, #{age}, #{length}, #{price}, #{created}, #{customer}, #{note}, #{comment}, #{code})
+	</insert>
+	<insert id="insertBurdang" parameterType="map" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO burdang (parent_id, place, blue_pos) VALUES (#{parent_id}, #{place}, #{blue_pos})
+	</insert>
+</mapper>
