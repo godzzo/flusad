@@ -67,6 +67,7 @@ I am using Eclipse Indigo SR2 JEE (M2E, DTP).
 * [SQL Queries from Sakila](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/sakila/Mapper.xml)
 * [SQL Inserts to Test Database](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/data/Mapper.xml)
 * [Create Tables for Test Database](https://github.com/godzzo/flusad/blob/master/src/test/resources/sql/data/clip.sql)
+* Config files which are need to be set [data](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/data/config.properties), [sakila](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/sakila/config.properties)
 
 * [Home page](http://godzzo.github.com/flusad) - (empty yet)
 
