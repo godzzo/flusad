@@ -6,6 +6,7 @@ Define sources and inserts, and the flusad will random pick from sources, and pe
 There are a lots of project out there for making test data, but i dicided to make it my own way.
 "My way" is to make the config almost completely in java (except SQL's which is sit in MyBatis xml config files).
 Pojects which are the same purpose: DTM Data Generator, Benerator.
+I am using Eclipse Indigo SR2 JEE (M2E, DTP).
 
 **Tiny Sample**
 
@@ -63,6 +64,9 @@ Pojects which are the same purpose: DTM Data Generator, Benerator.
 **Links**
 
 * [Complex sample code](https://github.com/godzzo/flusad/blob/master/src/test/java/org/godzzo/flusad/test/config/TestContext.java)
+* [SQL Queries from Sakila](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/sakila/Mapper.xml)
+* [SQL Inserts to Test Database](https://github.com/godzzo/flusad/blob/master/src/main/resources/mybatis/data/Mapper.xml)
+* [Create Tables for Test Database](https://github.com/godzzo/flusad/blob/master/src/test/resources/sql/data/clip.sql)
 
 * [Home page](http://godzzo.github.com/flusad) - (empty yet)
 
